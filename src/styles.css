@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.DraftEditor-root {
+  height: 400px;
+  border: 1px solid #eee;
+}
+.DraftEditor-editorContainer {
+  height: 100%;
+}
+.public-DraftEditor-content {
+  padding: 15px;
+  height: 100%;
+  overflow: auto;
+}
